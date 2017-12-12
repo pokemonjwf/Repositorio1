@@ -131,6 +131,7 @@ public class login extends JFrame {
 		if(n==JOptionPane.YES_OPTION)
 		{
 			dispose();
+			System.out.println("Tarea");
 		}
 	}
 }
